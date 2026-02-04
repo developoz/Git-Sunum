@@ -1,0 +1,1 @@
+bu dosya da sonradan düzenlendi (test_branch ile gönderilecek ve pull request ile merge edilecek.)
